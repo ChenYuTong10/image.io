@@ -1,0 +1,5 @@
+image.io is a private repository for storing images.
+
+Use jsDelivr to speed up access to GitHub links: https://cdn.jsdelivr.net/gh/user/repo@version/file
+
+jsDelivr full docs: https://www.jsdelivr.com/documentation#id-github
