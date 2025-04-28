@@ -1,0 +1,10 @@
+*
+
+!*.drawio
+!*.png
+!*.svg
+!*.html
+
+!.gitignore
+
+!README
